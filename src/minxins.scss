@@ -35,3 +35,18 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+html{
+    position: relative;
+  }
+  ins {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      z-index: -987272278999;
+      background-color: transparent;
+      height: 100% !important;
+  }
+  
